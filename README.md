@@ -8,3 +8,5 @@ The original only renamed the GoPro "GH" high res files.  I use the low res "GL"
 wanted the utility to change their extensions to mp4 and rename them to match the GH files.  
 
 Watch the video here: https://youtu.be/iS_plJ-JHmI
+
+V2: Script is updated to include video filenames starting with GX.  I noticed these when I started using my Hero 11.
